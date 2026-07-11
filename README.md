@@ -1,7 +1,7 @@
 # Nuclear Spin Model Simulation for Master's Thesis
 
 [![DOI](https://zenodo.org/badge/1297505074.svg)](https://doi.org/10.5281/zenodo.21310949)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/master-thesis-nv-axion-simulation/blob/main/notebooks/thesis_simulation_main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Houshyar-jfr/master-thesis-nv-axion-simulation/blob/main/notebooks/NV_Axion_Simulation.ipynb)
 
 ---
 
@@ -19,7 +19,7 @@ The code simulates a **14N nuclear spin** coupled to an **NV-center in diamond**
 master-thesis-nv-axion-simulation/
 │
 ├── notebooks/
-│ └── thesis_simulation_main.ipynb # Main Jupyter notebook (all phases)
+│   └── NV_Axion_Simulation.ipynb      # Main Jupyter notebook (all phases)
 │
 ├── results/
 │ └── figures/ # Generated figures (if saved)
@@ -74,7 +74,7 @@ The notebook is organized sequentially:
 4. Launch Jupyter Notebook:
  jupyter notebook
 5. Open and run:
- Navigate to notebooks/ and open thesis_simulation_main.ipynb, then click Run → Run All Cells.
+Navigate to `notebooks/` and open `NV_Axion_Simulation.ipynb`, then click `Run` → `Run All Cells`.
 
 ## 📊 Expected Outputs
 
