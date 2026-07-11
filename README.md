@@ -11,7 +11,7 @@ This repository contains the complete numerical simulation code used to generate
 
 **"Quantum Sensing Through a Particle Physicist’s Lens: From Lagrangian to Table-Top Detector"**
 
-The code simulates a **14N nuclear spin** coupled to an **NV-center in diamond** for **axion dark matter detection**. The simulations reproduce **Figures 4 and 6** from the paper **Nuclear Spin Metrology with Nitrogen Vacancy Center in Diamond for Axion Dark Matter Detection**, showing the 95% exclusion limits for the axion-nucleon coupling parameter `1/ f̃_a`.
+The code simulates a **14N nuclear spin** coupled to an **NV-center in diamond** for **axion dark matter detection**. The simulations reproduce **Figures 4 and 6** from the paper **Nuclear Spin Metrology with Nitrogen Vacancy Center in Diamond for Axion Dark Matter Detection** and **the sensitivity curves obtained from quantum dynamics simulations of the Hahn Echo and Ramsey sequences using the master equation solution and the hybrid model**, showing the 95% exclusion limits for the axion-nucleon coupling parameter `1/ f̃_a`.
 
 ---
 
@@ -62,8 +62,8 @@ Navigate to `notebooks/` and open `NV_Axion_Simulation.ipynb`, then click `Run` 
 ## 📊 Expected Outputs
 
 ### Figure 4 (Ramsey sequence – 95% exclusion limits)
-- **Analytical estimation** (Phase 5) – dashed curves
-- **Full quantum dynamics** (Phase 6) – solid magenta curve matching the paper
+- **Analytical estimation** (Phase 5)
+- **Full quantum dynamics** (Phase 6)
 
 The plot shows `1/f̃_a` [GeV⁻¹] vs axion mass `m_a` [eV] for three scenarios:
 - `N = 10¹², t_obs = 1 s`
@@ -71,11 +71,9 @@ The plot shows `1/f̃_a` [GeV⁻¹] vs axion mass `m_a` [eV] for three scenarios
 - `N = 10²⁰, t_obs = 1 yr`
 
 ### Figure 6 (Hahn echo – 95% exclusion limits)
-- **Room temperature** (T₂ = 10 ms) – top panel
-- **Cryogenic** (T₂ = 1 s) – bottom panel
-
-Both analytical and quantum simulation curves are generated and plotted for the same three scenarios.
-
+- **Room temperature** (T₂ = 10 ms) (Phase 7)
+- **Cryogenic** (T₂ = 1 s) (Phase 7)
+- **Full quantum dynamics** (Phase 8)
 ---
 
 ## ⚙️ Key Physical Constants
@@ -97,7 +95,7 @@ If you use this code for your research, please cite it using the DOI provided ab
 
 ### BibTeX entry:
 ```bibtex
-@software{Jafari Asl_2026_Nuclear_Spin,
+@software{JafariAsl_2026_Nuclear_Spin,
   author       = {Houshyar Jafari Asl},
   title        = {Quantum Sensing Through a Particle Physicist’s Lens: From Lagrangian to Table-Top Detector},
   year         = {2026},
@@ -108,7 +106,7 @@ If you use this code for your research, please cite it using the DOI provided ab
 
 ### Plain text:
 
-> Jafari Asl, Houshyar. (2026). *master-thesis-nv-axion-simulation*. Zenodo. doi:10.5281/zenodo.21310949
+> Jafari Asl, Houshyar. (2026). *Quantum Sensing Through a Particle Physicist’s Lens: From Lagrangian to Table-Top Detector*. Zenodo. doi:10.5281/zenodo.21310949
 
 ---
 
