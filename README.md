@@ -1,6 +1,6 @@
 # Nuclear Spin Model Simulation for Master's Thesis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/1297505074.svg)](https://doi.org/10.5281/zenodo.21310949)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/master-thesis-nv-axion-simulation/blob/main/notebooks/thesis_simulation_main.ipynb)
 
 ---
@@ -119,9 +119,13 @@ If you use this code for your research, please cite it using the DOI provided ab
   title        = {Quantum Sensing Through a Particle Physicist’s Lens: From Lagrangian to Table-Top Detector},
   year         = {2026},
   publisher    = {Zenodo},
-  version      = {v1.0.0},
-  doi          = {10.5281/zenodo.XXXXXX}
+  version      = {v1.0.1},
+  doi          = {10.5281/zenodo.21310949}
 }
+
+### Plain text:
+
+> Jafari Asl, Houshyar. (2026). *master-thesis-nv-axion-simulation*. Zenodo. doi:10.5281/zenodo.21310949
 
 ---
 

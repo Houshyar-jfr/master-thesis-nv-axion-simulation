@@ -5,10 +5,10 @@ authors:
     given-names: "Houshyar"
     affiliation: "Isfahan University of Technology"
 title: "Quantum Sensing Through a Particle Physicist’s Lens: From Lagrangian to Table-Top Detector"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-07-11
 repository-code: "https://github.com/Houshyar-jfr/master-thesis-nv-axion-simulation"
-doi: 10.5281/zenodo.XXXXXX
+doi: 10.5281/zenodo.21310949
 keywords:
   - "quantum sensing"
   - "NV-center"
