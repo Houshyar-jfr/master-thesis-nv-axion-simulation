@@ -15,22 +15,6 @@ The code simulates a **14N nuclear spin** coupled to an **NV-center in diamond**
 
 ---
 
-## 📂 Repository Structure
-master-thesis-nv-axion-simulation/
-│
-├── notebooks/
-│   └── NV_Axion_Simulation.ipynb      # Main Jupyter notebook (all phases)
-│
-├── results/
-│   └── figures/                       # Generated figures (if saved)
-│
-├── README.md                          # This file
-├── requirements.txt                   # Python dependencies
-├── .gitignore                         # Git ignore rules
-├── LICENSE                            # MIT License
-└── CITATION.cff                       # Citation metadata
----
-
 ## 🔬 Notebook Structure (8 Phases)
 
 The notebook is organized sequentially:
