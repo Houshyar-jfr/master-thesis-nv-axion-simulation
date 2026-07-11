@@ -1,0 +1,8 @@
+# Core dependencies for Nuclear Spin Model Simulation
+# Master's Thesis - 14N NV-center axion detection
+
+numpy
+scipy
+matplotlib
+qutip
+jupyter

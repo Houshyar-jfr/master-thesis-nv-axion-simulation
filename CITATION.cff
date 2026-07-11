@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code for your research, please cite it as below."
+authors:
+  - family-names: "Jafari Asl"
+    given-names: "Houshyar"
+    affiliation: "Isfahan University of Technology"
+title: "Quantum Sensing Through a Particle Physicist’s Lens: From Lagrangian to Table-Top Detector"
+version: 1.0.0
+date-released: 2026-07-11
+repository-code: "https://github.com/Houshyar-jfr/master-thesis-nv-axion-simulation"
+doi: 10.5281/zenodo.XXXXXX
+keywords:
+  - "quantum sensing"
+  - "NV-center"
+  - "axion dark matter"
+  - "nuclear spin"
+  - "quantum simulation"
+  - "QuTiP"
+license: "MIT"
