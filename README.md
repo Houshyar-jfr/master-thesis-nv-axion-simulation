@@ -22,14 +22,13 @@ master-thesis-nv-axion-simulation/
 │   └── NV_Axion_Simulation.ipynb      # Main Jupyter notebook (all phases)
 │
 ├── results/
-│ └── figures/ # Generated figures (if saved)
+│   └── figures/                       # Generated figures (if saved)
 │
-├── README.md # This file
-├── requirements.txt # Python dependencies
-├── .gitignore # Git ignore rules
-├── LICENSE # MIT License
-└── CITATION.cff # Citation metadata
-
+├── README.md                          # This file
+├── requirements.txt                   # Python dependencies
+├── .gitignore                         # Git ignore rules
+├── LICENSE                            # MIT License
+└── CITATION.cff                       # Citation metadata
 ---
 
 ## 🔬 Notebook Structure (8 Phases)
